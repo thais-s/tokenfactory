@@ -3199,3 +3199,15 @@ footer.color-yellow .footer-bottom p a {
   background: url(assets/img/preloader.gif) center no-repeat #fff;
   text-align: center;
 }
+
+/*Thais modifications*/
+
+body, .banner-area, .banner-area div {
+    height: auto;
+  }
+.double-items .right-info {
+  padding-right: 0;
+}
+.double-items .left-info {
+  padding-left: 11%;
+}

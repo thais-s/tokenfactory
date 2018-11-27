@@ -2345,3 +2345,19 @@ nav.bootsnav.navbar-full .navbar-toggle:hover span {
 body.wrap-nav-sidebar {
   height: auto !important;
 }
+
+/*Edits by Thais*/
+@media (min-width: 1024px) {
+nav.navbar.bootsnav .navbar-brand {
+  padding: 18px 15px 0;
+}
+nav.navbar.bootsnav ul.nav > li > a {
+  padding: 35px 15px 15px 10px;
+}
+}
+
+@media (min-width: 1024px) {
+.navbar-brand>img {
+    width: 300px;
+}
+}
